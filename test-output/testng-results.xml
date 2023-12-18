@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T22:00:50 IST" name="Default suite" finished-at="2023-12-18T22:00:51 IST" duration-ms="1250">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T22:00:50 IST" name="Default test" finished-at="2023-12-18T22:00:51 IST" duration-ms="1250">
+      <class name="Day4.ParsingJsonResponseData">
+        <test-method signature="testJsonResponseDataPriceFromBokArray()[pri:0, instance:Day4.ParsingJsonResponseData@2b91004a]" started-at="2023-12-18T22:00:50 IST" name="testJsonResponseDataPriceFromBokArray" finished-at="2023-12-18T22:00:51 IST" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJsonResponseDataPriceFromBokArray -->
+      </class> <!-- Day4.ParsingJsonResponseData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
